@@ -1,0 +1,31 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GALAGA_USFX_2P.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\GALAGA_USFX_2PEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\FabricaDeNaves_F.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2P.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2PGameMode.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2PPawn.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2PProjectile.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemiga.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemigaAbastecimiento.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemigaCaza.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemigaTransporte.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\Proyectil_E.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\FabricaDeNaves_F.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2P.init.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2PGameMode.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2PPawn.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\GALAGA_USFX_2PProjectile.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemiga.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemigaAbastecimiento.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemigaCaza.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\NaveEnemigaTransporte.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\Proyectil_E.gen.cpp.obj"
+"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\Default.rc2.res"
+/OUT:"C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\UE4Editor-GALAGA_USFX_2P.lib"

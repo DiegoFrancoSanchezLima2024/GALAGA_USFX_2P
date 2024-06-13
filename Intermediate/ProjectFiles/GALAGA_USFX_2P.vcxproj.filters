@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GALAGA_USFX_2P.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{C5A3D151-C9E3-401D-B31A-47EBA7A4FF3E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GALAGA_USFX_2P.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GALAGA_USFX_2PEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{549C85EB-B6A4-456E-A265-89686BF0A6F2}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GALAGA_USFX_2P">
+      <UniqueIdentifier>{22452D14-9900-4AA0-8B3A-93D5AA139B11}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\FabricaDeNaves_1_F.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\FabricaDeNaves_1_F.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\FabricaDeNaves_F.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\FabricaDeNaves_F.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2P.Build.cs">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2P.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2P.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2PGameMode.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2PGameMode.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2PPawn.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2PPawn.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2PProjectile.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\GALAGA_USFX_2PProjectile.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\NaveEnemiga.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\NaveEnemiga.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\NaveEnemigaAbastecimiento.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\NaveEnemigaAbastecimiento.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\NaveEnemigaCaza.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\NaveEnemigaCaza.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\NaveEnemigaTransporte.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\NaveEnemigaTransporte.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GALAGA_USFX_2P\Proyectil_E.cpp">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GALAGA_USFX_2P\Proyectil_E.h">
+      <Filter>Source\GALAGA_USFX_2P</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

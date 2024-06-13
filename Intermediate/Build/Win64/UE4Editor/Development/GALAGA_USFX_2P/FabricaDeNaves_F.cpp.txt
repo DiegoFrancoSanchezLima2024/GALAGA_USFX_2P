@@ -1,0 +1,5 @@
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\Definitions.GALAGA_USFX_2P.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\FabricaDeNaves_F.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\NaveEnemiga.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\NaveEnemiga.generated.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\FabricaDeNaves_F.generated.h

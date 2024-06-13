@@ -1,0 +1,3 @@
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\Definitions.GALAGA_USFX_2P.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

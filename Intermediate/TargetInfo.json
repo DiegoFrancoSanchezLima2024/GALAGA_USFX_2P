@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GALAGA_USFX_2P",
+			"Path": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\Unreal Projects\\GALAGA_USFX_2P\\Source\\GALAGA_USFX_2P.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GALAGA_USFX_2PEditor",
+			"Path": "C:\\Users\\HP VICTUS\\OneDrive\\Documentos\\Unreal Projects\\GALAGA_USFX_2P\\Source\\GALAGA_USFX_2PEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,13 @@
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Development\GALAGA_USFX_2P\Definitions.GALAGA_USFX_2P.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\FabricaDeNaves_1_F.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\FabricaDeNaves_F.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\NaveEnemiga.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\NaveEnemiga.generated.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\FabricaDeNaves_F.generated.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\FabricaDeNaves_1_F.generated.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\NaveEnemigaAbastecimiento.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\NaveEnemigaAbastecimiento.generated.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\NaveEnemigaCaza.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\NaveEnemigaCaza.generated.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Source\GALAGA_USFX_2P\NaveEnemigaTransporte.h
+C:\Users\HP VICTUS\OneDrive\Documentos\Unreal Projects\GALAGA_USFX_2P\Intermediate\Build\Win64\UE4Editor\Inc\GALAGA_USFX_2P\NaveEnemigaTransporte.generated.h

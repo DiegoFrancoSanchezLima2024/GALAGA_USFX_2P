@@ -1,0 +1,93 @@
+// Copyright Epic Games, Inc. All Rights Reserved.
+/*===========================================================================
+	Generated code exported from UnrealHeaderTool.
+	DO NOT modify this manually! Edit the corresponding .h files instead!
+===========================================================================*/
+
+#include "UObject/ObjectMacros.h"
+#include "UObject/ScriptMacros.h"
+
+PRAGMA_DISABLE_DEPRECATION_WARNINGS
+#ifdef GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_generated_h
+#error "GALAGA_USFX_2PGameMode.generated.h already included, missing '#pragma once' in GALAGA_USFX_2PGameMode.h"
+#endif
+#define GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_generated_h
+
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_SPARSE_DATA
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_RPC_WRAPPERS
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_RPC_WRAPPERS_NO_PURE_DECLS
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_INCLASS_NO_PURE_DECLS \
+private: \
+	static void StaticRegisterNativesAGALAGA_USFX_2PGameMode(); \
+	friend struct Z_Construct_UClass_AGALAGA_USFX_2PGameMode_Statics; \
+public: \
+	DECLARE_CLASS(AGALAGA_USFX_2PGameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/GALAGA_USFX_2P"), GALAGA_USFX_2P_API) \
+	DECLARE_SERIALIZER(AGALAGA_USFX_2PGameMode)
+
+
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_INCLASS \
+private: \
+	static void StaticRegisterNativesAGALAGA_USFX_2PGameMode(); \
+	friend struct Z_Construct_UClass_AGALAGA_USFX_2PGameMode_Statics; \
+public: \
+	DECLARE_CLASS(AGALAGA_USFX_2PGameMode, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/GALAGA_USFX_2P"), GALAGA_USFX_2P_API) \
+	DECLARE_SERIALIZER(AGALAGA_USFX_2PGameMode)
+
+
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_STANDARD_CONSTRUCTORS \
+	/** Standard constructor, called after all reflected properties have been initialized */ \
+	GALAGA_USFX_2P_API AGALAGA_USFX_2PGameMode(const FObjectInitializer& ObjectInitializer); \
+	DEFINE_DEFAULT_OBJECT_INITIALIZER_CONSTRUCTOR_CALL(AGALAGA_USFX_2PGameMode) \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(GALAGA_USFX_2P_API, AGALAGA_USFX_2PGameMode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGALAGA_USFX_2PGameMode); \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	GALAGA_USFX_2P_API AGALAGA_USFX_2PGameMode(AGALAGA_USFX_2PGameMode&&); \
+	GALAGA_USFX_2P_API AGALAGA_USFX_2PGameMode(const AGALAGA_USFX_2PGameMode&); \
+public:
+
+
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_ENHANCED_CONSTRUCTORS \
+private: \
+	/** Private move- and copy-constructors, should never be used */ \
+	GALAGA_USFX_2P_API AGALAGA_USFX_2PGameMode(AGALAGA_USFX_2PGameMode&&); \
+	GALAGA_USFX_2P_API AGALAGA_USFX_2PGameMode(const AGALAGA_USFX_2PGameMode&); \
+public: \
+	DECLARE_VTABLE_PTR_HELPER_CTOR(GALAGA_USFX_2P_API, AGALAGA_USFX_2PGameMode); \
+	DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AGALAGA_USFX_2PGameMode); \
+	DEFINE_DEFAULT_CONSTRUCTOR_CALL(AGALAGA_USFX_2PGameMode)
+
+
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_PRIVATE_PROPERTY_OFFSET
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_11_PROLOG
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_GENERATED_BODY_LEGACY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_PRIVATE_PROPERTY_OFFSET \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_SPARSE_DATA \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_RPC_WRAPPERS \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_INCLASS \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_STANDARD_CONSTRUCTORS \
+public: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+#define GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_GENERATED_BODY \
+PRAGMA_DISABLE_DEPRECATION_WARNINGS \
+public: \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_PRIVATE_PROPERTY_OFFSET \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_SPARSE_DATA \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_RPC_WRAPPERS_NO_PURE_DECLS \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_INCLASS_NO_PURE_DECLS \
+	GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h_14_ENHANCED_CONSTRUCTORS \
+private: \
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
+
+
+template<> GALAGA_USFX_2P_API UClass* StaticClass<class AGALAGA_USFX_2PGameMode>();
+
+#undef CURRENT_FILE_ID
+#define CURRENT_FILE_ID GALAGA_USFX_2P_Source_GALAGA_USFX_2P_GALAGA_USFX_2PGameMode_h
+
+
+PRAGMA_ENABLE_DEPRECATION_WARNINGS
